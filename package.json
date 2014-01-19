@@ -3,6 +3,9 @@
   "version": "0.0.1",
   "description": "Conversion of an Esprima tree into a DOM like structure for easy searching.",
   "main": "lib/index.js",
+  "repository": {
+    "url": "https://github.com/codeschool/esprima-jquery-map"
+  },
   "author": "Adam Fortuna",
   "license": "MIT",
   "dependencies": {
