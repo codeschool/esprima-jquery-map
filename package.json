@@ -10,6 +10,6 @@
   "license": "MIT",
   "dependencies": {
     "esprima": "~1.0.4",
-    "jquery": "~2.1"
+    "jquery-browserify": "1.8.1"
   }
 }
