@@ -11,5 +11,18 @@
   "dependencies": {
     "esprima": "~1.0.4",
     "jquery-browserify": "1.8.1"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/codeschool/esprima-jquery-map/issues"
+  },
+  "homepage": "https://github.com/codeschool/esprima-jquery-map",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jquery",
+    "esprima",
+    "tree"
+  ]
 }
