@@ -1,6 +1,6 @@
 {
   "name": "esprima-jquery-map",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Conversion of an Esprima tree into a DOM like structure for easy searching.",
   "main": "lib/index.js",
   "repository": {
